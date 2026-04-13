@@ -8,4 +8,4 @@ In questa esercitazione ho approfondito il funzionamento degli Ipervisori (focal
 
 ## Link alla Presentazione
 Puoi visualizzare la presentazione dinamica su Prezi cliccando qui:
-👉 https://prezi.com/view/G7Gyvy4q137crx3BowoW/?referral_token=gu6pFglnB3FN
+👉 https://prezi.com/view/hWzvnqmsloKM6tLF0nqs/?referral_token=wpwhVAlnB3FN
